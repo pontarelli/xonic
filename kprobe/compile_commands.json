@@ -1,0 +1,17 @@
+[
+ {
+  "directory": "/home/guest/onic/kprobe",
+  "arguments": [
+   "clang",
+   "-O2",
+   "-g",
+   "-target",
+   "bpf",
+   "-c",
+   "kprobe.bpf.c",
+   "-o",
+   "kprobe.bpf.o"
+  ],
+  "file": "kprobe.bpf.c"
+ }
+]

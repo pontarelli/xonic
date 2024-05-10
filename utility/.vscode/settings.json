@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"*.sage": "python",
+		"functional": "c",
+		"mman.h": "c",
+		"stdio.h": "c"
+	}
+}
